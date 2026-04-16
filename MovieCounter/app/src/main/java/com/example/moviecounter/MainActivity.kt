@@ -31,7 +31,8 @@ class MainActivity : ComponentActivity() {
                 Column(
                     modifier = Modifier.fillMaxSize()
                 ) {
-                    Text(text = "Cambio desde main")
+                    Text(text = "Cambio final")
+                }
 
                     Spacer(modifier = Modifier.height(16.dp))
 
@@ -42,7 +43,7 @@ class MainActivity : ComponentActivity() {
             }
         }
         }
-    }
+
 
 
 @Composable
