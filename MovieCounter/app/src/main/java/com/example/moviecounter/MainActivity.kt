@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
                 Column(
                     modifier = Modifier.fillMaxSize()
                 ) {
-                    Text(text = "Hello World")
+                    Text(text = "Cambio desde rama")
 
                     Spacer(modifier = Modifier.height(16.dp))
 
