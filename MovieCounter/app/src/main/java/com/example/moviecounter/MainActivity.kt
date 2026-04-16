@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
                     )
                 }
             }
+            Text(text = "Hello World")
         }
     }
 }
