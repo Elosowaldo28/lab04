@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                     Spacer(modifier = Modifier.height(16.dp))
 
                     Button(onClick = { }) {
-                        Text("Click me")
+                        Text("Press here")
                     }
                 }
             }
